@@ -1,0 +1,8 @@
+Table Name,Column Name,Count,Repeat Tables
+Solar,time,9,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility"
+Solar,generator id,7,"Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind"
+Solar,plant code,5,"Plant, Matched, Generator, Solar, Wind"
+Solar,net metering agreement?,2,"Matched, Solar"
+Solar,net metering dc capacity (mw),2,"Matched, Solar"
+Solar,virtual net metering agreement?,2,"Matched, Solar"
+Solar,virtual net metering dc capacity (mw),2,"Matched, Solar"

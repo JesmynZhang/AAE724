@@ -1,0 +1,60 @@
+Column Name,Tables,Count
+time,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility",9
+generator id,"Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind",7
+utility id,"Plant, Matched, Generator, Owner, Utility",5
+plant code,"Plant, Matched, Generator, Solar, Wind",5
+plant name,"Plant, Matched, Storage, Generator, Energy Storage",5
+state,"Matched, Utility, Plant, Generator",4
+technology,"Matched, Storage, Generator, Energy Storage",4
+utility name,"Matched, Utility, Plant, Generator",4
+sector,"Matched, Plant, Generator",3
+zip,"Matched, Utility, Plant",3
+sector name,"Matched, Plant, Generator",3
+county,"Matched, Plant, Generator",3
+ferc exempt wholesale generator status,"Matched, Plant",2
+ferc small power producer status,"Matched, Plant",2
+ferc exempt wholesale generator docket number,"Matched, Plant",2
+owner city,"Matched, Owner",2
+owner state,"Matched, Owner",2
+ferc cogeneration docket number,"Matched, Plant",2
+owner zip,"Matched, Owner",2
+ownership id,"Matched, Owner",2
+ferc small power producer docket number,"Matched, Plant",2
+net metering dc capacity (mw),"Matched, Solar",2
+percent owned,"Matched, Owner",2
+net metering agreement?,"Matched, Solar",2
+nerc region,"Matched, Plant",2
+virtual net metering agreement?,"Matched, Solar",2
+virtual net metering dc capacity (mw),"Matched, Solar",2
+nameplate energy capacity (mwh),"Storage, Energy Storage",2
+maximum charge rate (mw),"Storage, Energy Storage",2
+maximum discharge rate (mw),"Storage, Energy Storage",2
+storage technology 1,"Storage, Energy Storage",2
+nameplate reactive power rating,"Storage, Energy Storage",2
+storage enclosure type,"Storage, Energy Storage",2
+arbitrage,"Storage, Energy Storage",2
+ferc cogeneration status,"Matched, Plant",2
+predominant turbine model number,"Matched, Wind",2
+longitude,"Matched, Plant",2
+synchronized to transmission grid,"Matched, Generator",2
+prime mover,"Matched, Generator",2
+unit code,"Matched, Generator",2
+ownership,"Matched, Generator",2
+nameplate capacity (mw),"Matched, Generator",2
+nameplate power factor,"Matched, Generator",2
+summer capacity (mw),"Matched, Generator",2
+winter capacity (mw),"Matched, Generator",2
+minimum load (mw),"Matched, Generator",2
+status,"Matched, Generator",2
+operating month,"Matched, Generator",2
+latitude,"Matched, Plant",2
+operating year,"Matched, Generator",2
+street address,"Matched, Utility",2
+city,"Matched, Utility",2
+entity type,"Matched, Utility",2
+number of turbines,"Matched, Wind",2
+predominant turbine manufacturer,"Matched, Wind",2
+design wind speed (mph),"Matched, Wind",2
+wind quality class,"Matched, Wind",2
+turbine hub height (feet),"Matched, Wind",2
+excess wind and solar generation,"Storage, Energy Storage",2

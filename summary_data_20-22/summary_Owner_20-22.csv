@@ -1,0 +1,9 @@
+Table Name,Column Name,Count,Repeat Tables
+Owner,time,9,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility"
+Owner,generator id,7,"Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind"
+Owner,utility id,5,"Plant, Matched, Generator, Owner, Utility"
+Owner,owner city,2,"Matched, Owner"
+Owner,owner state,2,"Matched, Owner"
+Owner,owner zip,2,"Matched, Owner"
+Owner,ownership id,2,"Matched, Owner"
+Owner,percent owned,2,"Matched, Owner"

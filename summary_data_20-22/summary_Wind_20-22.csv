@@ -1,0 +1,10 @@
+Table Name,Column Name,Count,Repeat Tables
+Wind,time,9,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility"
+Wind,generator id,7,"Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind"
+Wind,plant code,5,"Plant, Matched, Generator, Solar, Wind"
+Wind,number of turbines,2,"Matched, Wind"
+Wind,predominant turbine manufacturer,2,"Matched, Wind"
+Wind,predominant turbine model number,2,"Matched, Wind"
+Wind,design wind speed (mph),2,"Matched, Wind"
+Wind,wind quality class,2,"Matched, Wind"
+Wind,turbine hub height (feet),2,"Matched, Wind"

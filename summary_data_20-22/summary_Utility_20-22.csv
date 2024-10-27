@@ -1,0 +1,9 @@
+Table Name,Column Name,Count,Repeat Tables
+Utility,time,9,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility"
+Utility,utility id,5,"Plant, Matched, Generator, Owner, Utility"
+Utility,utility name,4,"Matched, Utility, Plant, Generator"
+Utility,state,4,"Matched, Utility, Plant, Generator"
+Utility,zip,3,"Matched, Utility, Plant"
+Utility,street address,2,"Matched, Utility"
+Utility,city,2,"Matched, Utility"
+Utility,entity type,2,"Matched, Utility"

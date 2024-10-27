@@ -1,0 +1,13 @@
+Table Name,Column Name,Count,Repeat Tables
+Storage,time,9,"Plant, Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind, Utility"
+Storage,generator id,7,"Matched, Storage, Generator, Energy Storage, Solar, Owner, Wind"
+Storage,plant name,5,"Plant, Matched, Storage, Generator, Energy Storage"
+Storage,technology,4,"Matched, Storage, Generator, Energy Storage"
+Storage,nameplate energy capacity (mwh),2,"Storage, Energy Storage"
+Storage,maximum charge rate (mw),2,"Storage, Energy Storage"
+Storage,maximum discharge rate (mw),2,"Storage, Energy Storage"
+Storage,storage technology 1,2,"Storage, Energy Storage"
+Storage,nameplate reactive power rating,2,"Storage, Energy Storage"
+Storage,storage enclosure type,2,"Storage, Energy Storage"
+Storage,arbitrage,2,"Storage, Energy Storage"
+Storage,excess wind and solar generation,2,"Storage, Energy Storage"

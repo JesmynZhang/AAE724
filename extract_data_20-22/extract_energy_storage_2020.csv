@@ -1,0 +1,231 @@
+Plant Name,Generator ID,Technology,Nameplate Energy Capacity (MWh),Maximum Charge Rate (MW),Maximum Discharge Rate (MW),Storage Technology 1,Nameplate Reactive Power Rating,Storage Enclosure Type,Arbitrage,Excess Wind and Solar Generation,time
+El Centro Hybrid,BESS,Batteries,20,30,30,LIB,14.4,BL,N,,2020
+Palaau Power Hybrid,BAT1,Batteries,2,0.5,0.5,OTH,2,CS,,,2020
+Harding Street,BAT1,Batteries,20,20,20,LIB,20,BL,,,2020
+William F Wyman Hybrid,BESS,Batteries,10.9,16.7,16.2,LIB,10.2,CS,,,2020
+Nantucket Hybrid,20,Batteries,48,6,6,LIB,7,BL,,,2020
+Cleary Flood Hybrid,BS1,Batteries,6,3,3,LIB,3,CS,Y,,2020
+Walter C Beckjord,BECK1,Batteries,1,2,2,OTH,2,CS,,,2020
+Walter C Beckjord,BECK2,Batteries,0.8,2,2,OTH,2,CS,,,2020
+Kotzebue Hybrid,ES1,Batteries,1,1.2,1.2,LIB,1.2,CT,,Y,2020
+Ocracoke Hybrid,BAT,Batteries,1,0.5,0.5,LIB,0.5,CS,Y,,2020
+Pebbly Beach Generating Station Hybrid,NASB1,Batteries,6.8,1,1,NAB,0.8,CS,,,2020
+McIntosh (AL),1,Natural Gas with Compressed Air Storage,110,52,110,,0.9,BL,,,2020
+VESI Pomona,BESS1,Batteries,20,20,20,LIB,20,BL,,,2020
+Great Lakes Hydro America - ME,BES1,Batteries,10,4,5,LIB,18.2,CS,Y,,2020
+Great Lakes Hydro America - ME,BES2,Batteries,10,4,5,LIB,18.2,CS,Y,,2020
+Biola University Hybrid,BATT,Batteries,0.5,0.3,0.3,LIB,0.3,CS,,,2020
+"Green Mountain Storage, LLC",BGM,Batteries,10.4,10.4,10.4,LIB,10.4,CT,,,2020
+Grapeland Hybrid,BA1,Batteries,10,10,10,LIB,6,BL,N,,2020
+Center Hybrid,BA1,Batteries,10,10,10,LIB,6,BL,N,,2020
+Solana Generating Station,GEN 1,Solar Thermal with Energy Storage, , , ,, ,,,Y,2020
+Solana Generating Station,GEN2,Solar Thermal with Energy Storage, , , ,, ,,,Y,2020
+Notrees Windpower Hybrid,BATT,Batteries,13.6,36,36,LIB,36,BL,N,,2020
+Pyron Wind Farm LLC Hybrid,PYRBT,Batteries,9.9,9.9,9.9,LIB,3.3,CS,,,2020
+Inadale Wind Farm LLC Hybrid,INABT,Batteries,9.9,9.9,9.9,LIB,3.3,CS,,,2020
+Rolling Thunder Wind Farm Hybrid,2,Batteries,0.8,0.3,0.3,LIB,0.3,OT,,Y,2020
+Kaheawa Wind Power II LLC,2,Batteries,20,10,10,LIB,10,BL,,Y,2020
+Crescent Dunes Solar Energy,TSE-1,Solar Thermal with Energy Storage, , , ,, ,,,,2020
+FPL Energy Illinois Wind LLC Hybrid,BFT,Batteries,8.3,20,20,LIB,0,CS,,,2020
+Laurel Mountain Hybrid,2,Batteries,16,16,16,LIB,0,CS,,,2020
+Battery Energy Storage System,BESS,Batteries,11,4,40,NIB,46,BL,,,2020
+University of California San Diego Hybrid,BS1,Batteries,2.5,2.5,2.5,LIB,2.5,CS,,,2020
+Stephentown Spindle,SRS1,Flywheels,5,20,20,,0,CS,,,2020
+Hazle Spindle,HRS1,Flywheels,5,20,20,,0,CS,,,2020
+Auwahi Wind Energy Hybrid,AWEB,Batteries,4.4,11,11,LIB,5.4,CS,,,2020
+Marshalltown Generating Station,BESS1,Batteries,0.6,0.3,0.3,LIB,0.1,CS,,Y,2020
+ESS Battery Microgrid,1,Batteries,3,3,3,PBB,3,CS,N,Y,2020
+Battery Utility of Ohio,BOU,Batteries,2,4,4,LIB,4,CS,,,2020
+OCI Alamo Solar I Hybrid,ASTRO,Batteries,0.3,1,1,LIB,0.6,CS,,,2020
+Laverne Battery,1,Batteries,7.6,1,1,NAB,1.3,CS,,,2020
+Sierra Nevada Brewing Co Hybrid,BESS,Batteries,1,0.5,0.5,LIB,0.5,OT,,Y,2020
+Santa Rita Jail Hybrid,SRJBA,Batteries,4,0.3,0.3,LIB,2,CS,,,2020
+KRS I Anahola Solar Hybrid,B5B6,Batteries,4.6,2,6,LIB,6,CS,,Y,2020
+Prosperity Energy Storage Facility Hybrid,GEN-2,Batteries,1.3,0.5,0.5,PBB,0.8,CS,Y,Y,2020
+Vaca Dixon Battery Storage System,BAT1,Batteries,14,2,2,NAB,2.5,CS,Y,,2020
+Yerba Buena,YB1,Batteries,28,4,4,NAB,5,CS,Y,,2020
+Tehachapi Energy Storage Project,TSP1,Batteries,32,8,8,LIB,4,BL,N,,2020
+KCP&L SmartGrid Innovation Park,1,Batteries,1,1,1,LIB,1.3,CS,,,2020
+AES Warrior Run Energy Storage Project,BESS1,Batteries,5,5,5,LIB,5,BL,,,2020
+Grand Ridge Battery Projects,GIVB,Batteries,1,1.5,1.5,LIB,0.5,CT,,,2020
+Grand Ridge Battery Projects,GRES,Batteries,12.5,31.5,31.5,LIB,0.5,CT,,,2020
+Elwood Energy Storage Center,WCBS,Batteries,7.9,19.8,19.8,LIB,22,CS,N,,2020
+Jake Energy Storage Center,JBS,Batteries,7.9,19.8,19.8,LIB,22,CS,,,2020
+Babcock Solar Energy Center Hybrid,BA,Batteries,40,10,10,LIB,7,CS,,Y,2020
+AEP Milton NaS,1,Batteries,2,2,2,NAB,2,CS,,,2020
+MESA 1,A,Batteries,0.5,1,1,LIB,0.9,CS,Y,,2020
+MESA 1,B,Batteries,0.5,1,1,LIB,0.9,CS,Y,,2020
+Citrus Solar Energy Center Hybrid,BA,Batteries,16,4,4,LIB,0,CS,,Y,2020
+Castle Gap Solar Hybrid,BAT1,Batteries,42,9.9,9.9,LIB,4.8,CS,,Y,2020
+Genentech-Oceanside Hybrid,BA1,Batteries,2,1,1,LIB,1,CS,,Y,2020
+Silicon Valley Clean Water,BES,Batteries,2,1,1,LIB,1,CS,,,2020
+Clinton Battery,1,Batteries,4.1,10,10,LIB,3.2,CS,,,2020
+HMV Minster Energy Storage System,MIN02,Batteries,7,7,7,LIB,5.3,CS,,,2020
+Beech Ridge Energy Storage,BRES,Batteries,12.5,31.5,31.5,LIB,0.5,CT,,,2020
+Salem Smart Power Center,SSPC,Batteries,1.3,5,5,LIB,5,BL,,,2020
+Glacier Battery Storage,GLA,Batteries,4.4,2,2,LIB,2,CT,Y,,2020
+Springbok 3 Solar Farm Hybrid,SB3BS,Batteries,1.5,1.5,1.5,LIB,1.5,CT,,Y,2020
+ETT Presidio NaS Battery,BOB,Batteries,4,4,4,NAB,4,BL,,,2020
+Stafford Hill Solar Hybrid,BA1,Batteries,3.4,2,2,LIB,0.5,CS,,Y,2020
+KIUC Kapaia PV and BA Storage Project Hybrid,BA1,Batteries,52,11,11,LIB,7.8,CS,,Y,2020
+Cedartown Battery Energy Storage Project,1,Batteries,2,1,1,LIB,1.5,CT,,Y,2020
+GMP Solar - Panton Hybrid,GMPBP,Batteries,4,1,1,LIB,1,OT,,Y,2020
+Flywheel Energy Storage System Microgrid,FESS,Flywheels,2,2,2,,2,CS,,Y,2020
+Borrego Springs Energy Storage,SES1,Batteries,1.5,0.5,0.5,LIB,1.5,CS,N,,2020
+Borrego Springs Energy Storage,SES2,Batteries,3,1,1,LIB,1.5,CS,,,2020
+Pala Energy Storage Yard,SES1,Batteries,1.5,0.5,0.5,LIB,1.5,CS,,,2020
+Pala Energy Storage Yard,SES2,Batteries,2,1,1,LIB,1.5,CS,,,2020
+Ortega Highway Energy Storage,SES1,Batteries,3,1,1,LIB,2,CS,,,2020
+Ortega Highway Energy Storage,SES2,Batteries,3,1,1,LIB,2,CS,,,2020
+Canyon Crest Academy,SES,Batteries,3,1,1,LIB,1,CS,,,2020
+El Cajon Energy Storage,SES,Batteries,30,7.5,7.5,LIB,7.5,CS,Y,,2020
+Escondido Energy Storage,SES,Batteries,120,30,30,LIB,30,CS,Y,Y,2020
+CMEEC - Polaris Park Solar Hybrid,BA1,Batteries,3.3,0.8,0.8,LIB,1,CS,,Y,2020
+CMEEC - Norwich Stott St Solar Hybrid,BA1,Batteries,3,0.8,0.8,LIB,1,CS,,Y,2020
+AEP Churubusco NaS,1,Batteries,2,2,2,NAB,2,CS,,,2020
+AEP Bluffton NaS,1,Batteries,2,2,2,NAB,2,CS,,,2020
+Rabbit Hill Energy Storage Project,1,Batteries,9.9,9.9,9.9,LIB,9.9,CS,,,2020
+McHenry Battery Storage,MCH1,Batteries,7.8,19.8,19.8,LIB,6.1,CS,,,2020
+Willey Battery Utility,WBU,Batteries,2,6,6,LIB,6,CS,,,2020
+Mira Loma Energy Storage Facility,013A,Batteries,40,10,10,LIB,3.3,CS,Y,,2020
+Mira Loma Energy Storage Facility,013B,Batteries,40,10,10,LIB,3.3,CS,Y,,2020
+"Blue Summit Storage, LLC",WBSS,Batteries,12.6,30,30,LIB,12.5,CS,,,2020
+Stanton Energy Reliability Center Hybrid,BESS1,Batteries,4.5,10,10,LIB, ,CS,,,2020
+Stanton Energy Reliability Center Hybrid,BESS2,Batteries,4.5,10,10,LIB, ,CS,,,2020
+Millikan BESS,PE101,Batteries,8,2,2,LIB,2,BL,Y,,2020
+Hampshire College Hybrid,BA1,Batteries,0.5,0.3,0.3,LIB,0.3,CS,,Y,2020
+Hampshire College Hybrid,BA2,Batteries,0.5,0.3,0.3,LIB,0.3,CS,,Y,2020
+Mt. Tom Solar Project Hybrid,BA1,Batteries,6.1,2,3.1,LIB,2.3,CS,,Y,2020
+Chocksett Rd Energy Storage Project,BA1,Batteries,3.9,2,2,LIB,1,CS,,,2020
+Glendale Battery Energy Storage System,2BESS,Batteries,1,1,2,LIB,2,CS,,,2020
+Iron Horse Battery Storage Hybrid,BA1,Batteries,10,10,10,LIB,10,CS,,Y,2020
+AES LAWAI SOLAR Hybrid,LAWA2,Batteries,100,20,20,LIB,20,CS,,Y,2020
+Vanadium Redox Flow Battery Plant,VRF,Batteries,8,2,2,FLB,2.3,CS,,,2020
+Pima Energy Storage System,PIMA,Batteries,2.5,8,10,LIB,2.9,CS,,,2020
+Volkman Road Solar Array Hybrid,VRSA2,Batteries,4.6,1,1,LIB,1.2,CT,,Y,2020
+NRG Elbow Creek Energy Storage Project,ECBS,Batteries,0.7,2,2,LIB,2,CS,Y,,2020
+Beacon BESS 1,BCNB1,Batteries,10,20,20,LIB,15,CS,,Y,2020
+Panasonic Carport Solar Hybrid,PANBS,Batteries,2.2,1,1,LIB,1,CS,Y,Y,2020
+Hopewell Valley High School Hybrid,BA1,Batteries,1,0.5,0.5,LIB,0.5,BL,,Y,2020
+New Orleans Solar Power Plant,NOSPB,Batteries,0.5,0.5,0.5,LIB,0.4,CS,,Y,2020
+Vista Energy Storage System ,VISTA,Batteries,40,40,40,LIB,40,BL,Y,,2020
+Pinal Central Energy Center Hybrid,BA1,Batteries,40,10,10,LIB,10,CS,,Y,2020
+Cox Battery Energy Storage,1,Batteries,1.5,1.2,1,PBB,1.2,CS,,,2020
+HEBT WLA 1,WLA01,Batteries,6.9,1,1,LIB,1,OT,Y,,2020
+HEBT Irvine 1,IRV01,Batteries,6.5,1,1,LIB,1,OT,,,2020
+HEBT Irvine 1,IRV1W,Batteries,27,4.5,4.5,LIB,4.5,OT,,,2020
+HEBT Irvine 2,IRV06,Batteries,15,2.5,2.5,LIB,2.5,OT,,,2020
+HEBT Irvine 2,IRV2W,Batteries,19.8,3.3,3.3,LIB,3.3,OT,,,2020
+MA Solar Storage 1 Hybrid,61730,Batteries,2,1,1,LIB,1,CS,Y,Y,2020
+Lockheed Martin RMS Syracuse,SYR1,Batteries,1.3,1,1,LIB,1,CS,Y,,2020
+Kingsberry Energy Storage System,KBESS,Batteries,3,1.5,1.5,LIB,1.5,CS,Y,Y,2020
+System Control Center,GEN1,Flywheels,2.5,2.5,2.5,,0,CS,,,2020
+System Control Center,GEN2,Flywheels,2.5,2.5,2.5,,0,CS,,,2020
+Pacific Union College BESS,12649,Batteries,2,1,1,LIB,1,CS,Y,,2020
+Campbell Industrial Park BESS,CIPB1,Batteries,0.3,1,1,LIB,1,CS,,,2020
+AES ES GILBERT,SRP,Batteries,40,10,10,LIB,10,BL,Y,,2020
+"Stryker 22, L.L.C.",EDGRD,Batteries,19.8,19.8,19.8,LIB,19.8,CS,,,2020
+Plumsted 537 LLC,PLMST,Batteries,19.8,19.8,19.8,LIB,19.8,CS,,,2020
+Redstone Arsenal Hybrid,BA,Batteries,2,0.5,0.5,LIB,1,CS,Y,Y,2020
+Parkview Battery,PKVWB,Batteries,1,1.1,1.1,LIB,1.1,CS,,Y,2020
+Punkin Center Battery Storage,B1,Batteries,8,2,2,LIB,2.2,CS,,,2020
+ACUA,VACUA,Batteries,1,1,1,LIB,1,CS,,,2020
+Casa Mesa Wind Energy Center Hybrid,CMNMB,Batteries,1,1,1,LIB,12.5,CS,,Y,2020
+MCRD Parris Island PV Hybrid,TBESS,Batteries,4,4,4,LIB,4,CS,,Y,2020
+TAC-Distributed Energy Resource Hybrid,BA,Batteries,0.5,0.3,0.3,LIB,0.3,CT,N,,2020
+Gavilan Community College Solar Project,GDCBA,Batteries,0.5,0.2,0.3,LIB,0.3,CS,,Y,2020
+UC Merced Solar Hybrid,UCMBA,Batteries,0.9,0.5,0.5,LIB,0.5,CS,N,Y,2020
+Caldwell Wastewater Treatment Plant Hybrid,BAT1,Batteries,2,0.5,0.5,OTH,0.5,OT,,Y,2020
+KCE NY 1,KNY1,Batteries,8.4,20,20,LIB,6.5,CS,,,2020
+Ashburnham Energy Storage Project,AMLPB,Batteries,3,3,3,LIB,3,CT,,,2020
+Station 9 Energy Storage System,ESS1,Batteries,4.2,2,2,LIB,2,CS,,,2020
+I25 Battery Storage,I25BA,Batteries,16,4,4,LIB,0.4,CS,,,2020
+GMP Solar/Storage-Milton Hybrid,GMPBM,Batteries,8,2,2,LIB,2,OT,,Y,2020
+GMP Solar/Storage-Ferrisburgh Hybrid,GMPBF,Batteries,8,2,2,LIB,2,OT,,Y,2020
+GMP Solar/Storage-Essex Hybrid,GMPBE,Batteries,8,2,2,LIB,2,OT,,Y,2020
+Kearny Mesa Storage LLC,U1,Batteries,1,1,1,LIB,1,CS,,,2020
+Meyersdale Battery,BMY,Batteries,12.1,18,18,LIB,18,CT,,,2020
+Knoxville Battery Energy Storage,ES1,Batteries,4,1.1,1.1,LIB,1.1,CS,Y,,2020
+Beebe Substation Battery Storage,WAKFD,Batteries,3,3,3,LIB,3,CT,,,2020
+Commerce ESS,BA1,Batteries,10,10,10,LIB,10,CS,Y,Y,2020
+Minuteman Energy Storage,MMES,Batteries,10,5,5,LIB,5,CS,,,2020
+Happy Hollow CSG Hybrid,HHESS,Batteries,6.6,3.3,3.3,LIB,3.3,CS,N,Y,2020
+Noland Wastewater Treatment Plant Hybrid,FAYEB,Batteries,13.1,6,6,LIB,6,BL,,,2020
+Westside Wastewater Treatment Plant Hybrid,FAYWB,Batteries,13.1,6,6,LIB,6,BL,,,2020
+CED Northampton Solar LLC Hybrid,NSES,Batteries,4.9,2,2,LIB,2,CS,,,2020
+Eyak Service Center BESS,BESS1,Batteries,0.9,1,1,LIB,0.8,CS,,,2020
+East Hampton Energy Storage Center,BEH,Batteries,40,5,5,LIB,5,BL,Y,,2020
+Montauk Energy Storage Center,BME,Batteries,40,5,5,LIB,0.7,BL,,,2020
+Prospect Storage,BESS,Batteries,10,9.9,9.9,LIB,3.3,CS,Y,,2020
+Acushnet Ball Plant 2,ESS-1,Batteries,2,1,1,LIB,1,CS,,,2020
+Acushnet Ball Plant 2,ESS-2,Batteries,1,0.5,0.5,LIB,0.5,CS,,,2020
+Marengo Battery Storage LLC,MBSS,Batteries,20,20,20,LIB,23.4,CS,,,2020
+Nabb Battery Energy Storage System,ES1,Batteries,5,5,5,LIB,5,CS,,,2020
+Hinesburg,VEC,Batteries,1.9,1.9,1.9,LIB,1.9,CS,,,2020
+Anoka BESS,BA,Batteries,12,6,6,LIB,4.9,CS,,Y,2020
+Athens BESS,BA,Batteries,12,6,6,LIB,4.9,CS,,Y,2020
+Syncarpha Halifax Hybrid CSG,SYHAB,Batteries,3.2,1.6,1.6,NIB,1,CT,,Y,2020
+Syncarpha Blandford Hybrid CSG,SYBLB,Batteries,7.9,3.9,3.9,NIB,2.3,CT,,Y,2020
+Syncarpha Northampton Hybrid CSG,SYNOB,Batteries,4,2,2,LIB,0.6,CT,,Y,2020
+East Pulaski BESS,BESS,Batteries,4.2,2,2,LIB,0.6,CS,,,2020
+"Finchville Solar, LLC Hybrid CSG",BESS,Batteries,4.4,1.9,1.9,LIB,0,CT,,Y,2020
+"RT 52 Walden Solar 1, LLC Hybrid",BESS,Batteries,8.8,3.9,3.9,LIB,0,CT,,Y,2020
+"Cronin Road Solar 1, LLC CSG Hybrid",BESS,Batteries,7.7,1.5,1.5,LIB,0,CT,,Y,2020
+Fort Carson Battery Energy Storage System,1,Batteries,8.5,4.2,4.2,LIB,1.4,CS,,,2020
+Asheville-Rock Hill Battery,ES1,Batteries,8.8,8.8,8.8,LIB,8.8,CS,Y,,2020
+Athens - Coopers Corner BESS,COOPR,Batteries,6,3,3,LIB,4.9,CS,,Y,2020
+Imeson Solar,IMESS,Batteries,3.8,1.5,1.5,LIB,4,CS,,,2020
+Middleton Solar Park,MDB02,Batteries,6.6,3,2.7,LIB,0.2,CS,,,2020
+Partridge Hill Solar Hybrid,BATT,Batteries,1.5,1.3,1.3,LIB,0,CS,,Y,2020
+Camp Atterbury Microgrid Hybrid,ES1,Batteries,5,5,5,FLB,3.3,BL,,Y,2020
+Kearsarge Amesbury Hybrid,AMBAT,Batteries,3.8,1.5,1.5,LIB,1.6,CS,,Y,2020
+San Diego Zoo,SDZOO,Batteries,4,1,1,LIB,1.6,CS,N,,2020
+"Middletown Solar 1, LLC Hybrid CSG",BATT,Batteries,6.6,1.6,1.6,LIB,0,CS,,Y,2020
+Fresno Bullard High School Hybrid,BA903,Batteries,0.4,0.4,0.4,LIB,0,CS,,Y,2020
+Fresno Hoover High School Hybrid,BA291,Batteries,0.2,0.2,0.2,LIB,0,CS,,Y,2020
+Fresno Sunnyside High School Hybrid,BA112,Batteries,0.3,0.3,0.3,LIB,0,CS,,Y,2020
+Partridge Solar Project CSG Hybrid,BATT,Batteries,1.5,1.3,1.3,LIB,0,CS,,Y,2020
+Rush Springs Energy Storage (BA),RUSHE,Batteries,20,10,10,FLB,10,CS,Y,,2020
+Hurteau Solar Project Hybrid,BATT,Batteries,1.5,1.3,1.3,LIB,0,CS,,Y,2020
+Alicea Solar Project Hybrid CSG,BATT,Batteries,3,1.5,1.5,LIB,0,CS,,Y,2020
+McDougle-Mitchell Solar Project Hybrid CSG,BATT,Batteries,5.7,2.9,2.9,LIB,0,CS,,Y,2020
+Cycz Solar Project CSG Hybrid,BATT,Batteries,2.5,1.3,1.3,LIB,0,CS,,Y,2020
+West A&B Solar Project Hybrid CSG,BATT,Batteries,3.5,1.8,1.8,LIB,0,CS,,Y,2020
+Annese Solar Project Hybrid CSG,BATT,Batteries,6.7,3.4,3.4,LIB,0,CS,,Y,2020
+Walnut Unified School District Walnut HS Hybrid,ST1,Batteries,0.5,0.1,0.1,LIB,0.1,CS,,Y,2020
+Solar BESS Hybrid,TEST,Batteries,4,1,1,LIB,1,BL,,,2020
+NY3 Battery,NY3,Batteries,12,3,3,LIB,3,CS,,,2020
+Allergan,ALRGN,Batteries,9,1.5,1.5,LIB,1.5,OT,Y,,2020
+Baker,BAKER,Batteries,6.3,1.2,1.2,LIB,1.2,OT,Y,,2020
+CSU Long Beach,CSULB,Batteries,15,2.5,2.5,LIB,2.5,OT,Y,,2020
+DATS,DATS0,Batteries,6,1,1,LIB,1,OT,Y,,2020
+Downey,DOWNY,Batteries,13,2,2,LIB,2,OT,Y,,2020
+LAWRP,LAWRP,Batteries,5,1,1,LIB,1,OT,Y,,2020
+Long Beach Convention Center,LBCON,Batteries,8.6,1.5,1.5,LIB,1.5,OT,Y,,2020
+OCSD,OCSD1,Batteries,32.6,4.9,4.9,LIB,4.9,OT,Y,,2020
+SOCCD,SOCCD,Batteries,7.2,1.3,1.3,LIB,1.3,OT,Y,,2020
+Mount Kisco Landfill Solar & Storage CSG,KISCB,Batteries,2.1,0,0.7,LIB,0,CS,,Y,2020
+Tech Square Microgrid,BESS1,Batteries,0.4,0.2,0.2,LIB,0,BL,,,2020
+Partridgeville Hybrid CSG,PBESS,Batteries,3.9,2,2,LIB,2,CS,,Y,2020
+Gateway Energy Storage System,GTWAY,Batteries,250,250,250,LIB,3,BL,Y,,2020
+"Horn Rapids Solar, Storage and Training",HRBE,Batteries,4,1,1,LIB,2.4,CS,,,2020
+Crane Battery Energy Storage System,ES1,Batteries,5,5,5,LIB,5,CS,,,2020
+Lincoln Medical and Mental Health Center,B1,Batteries,1,1,1,PBB,0.8,BL,,,2020
+Lincoln Medical and Mental Health Center,B2,Batteries,1,1,1,PBB,0.8,BL,,,2020
+Lincoln Medical and Mental Health Center,B3,Batteries,1,1,1,PBB,0.8,BL,,,2020
+Alvin,ALVIN,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+Odessa,ODSA,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+Angleton,ANGLE,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+Brazoria,BRAZ,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+Heights,H8S,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+Magnolia TX,MANGO,Batteries,9.9,9.9,9.9,LIB,11,CS,Y,,2020
+TX7 Flat Top,TX7,Batteries,16.5,9.9,9.9,LIB,9.9,CS,Y,,2020
+TX8 Worsham,TX8,Batteries,17.9,9.9,9.9,LIB,9.9,CS,Y,,2020
+TX2 Port Lavaca,TX2,Batteries,11.9,9.9,9.9,LIB,9.9,CS,,,2020
+Breckenridge Solar,BBA,Batteries,4.7,2.2,2.2,LIB,2.2,CS,,Y,2020
+Wilmarth Solar,WILB,Batteries,4.6,2.3,2.3,LIB,2.3,CS,,Y,2020
+Wynwood Energy Storage,1,Batteries,40,10,10,LIB,0.5,BL,,,2020
+County of San Diego COC Hybrid,ESS,Batteries,1,0.4,0.4,LIB,1,CS,,Y,2020
+SEPV Sierra,1,Batteries,3.4,6,6,LIB,6,CS,Y,Y,2020
+Madison BTM,MBTM,Batteries,1.5,1.5,1.5,LIB,3.1,CS,Y,,2020
+Madison ESS,MESS,Batteries,4.9,4.9,4.9,LIB,5,CS,Y,,2020
